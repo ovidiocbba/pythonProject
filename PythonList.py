@@ -1,4 +1,5 @@
 # Python Beginners Tutorial | Collections LIST | Basic Programming 5
+# List [] ordered | indexed | changeable | duplicates
 my_list = ["Tokyo", "London", "New York"]
 print(my_list)
 print(my_list[2])
